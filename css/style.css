@@ -1,0 +1,40 @@
+* {
+	box-sizing: border-box;
+	font-family: Helvetica, Arial, sans-serif;
+}
+body {
+  background: lightyellow;
+
+}
+h1 {
+	text-align: left;
+}
+p {
+	font-size: 12px;
+}
+.papa {
+	width: 1000px;
+	display: flex;
+	justify-content: space-between;
+	margin: 0 auto;
+}
+.texto {
+	width: 50%;
+	padding: 10px;
+} 
+
+.imagenes {
+	padding: 10px;
+}
+.imagen1 {
+	padding: 10px;
+	align-self: flex-end;
+}
+hr {
+	width: 1000px;
+	color: rgb(220,220,220);
+}
+.enlace {
+	color: red;
+	font-style: italic;
+}
